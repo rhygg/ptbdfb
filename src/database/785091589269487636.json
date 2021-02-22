@@ -1,0 +1,17 @@
+{
+	"guildID": "785091589269487636",
+	"prefixes": [
+		"p!"
+	],
+	"modules": [],
+	"commands": [],
+	"eventListeners": [],
+	"createdAt": "2021-02-21T10:23:16.766Z",
+	"updatedAt": "2021-02-21T10:23:16.766Z",
+	"ignoredUsers": [],
+	"ignoredRoles": [],
+	"ignoredChannels": [],
+	"modOnly": false,
+	"modRoles": [],
+	"modUsers": []
+}

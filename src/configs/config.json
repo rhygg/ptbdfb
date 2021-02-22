@@ -1,0 +1,36 @@
+{
+    "settings": {
+        "lang": "english",
+        "debugMode": true,
+        "library": 1,
+        "logger": 0,
+        "db": 1,
+        "guildConfigCache": 1000
+    },
+    "prefixes": {
+        "general": "p!",
+        "admin": "p!",
+        "owner": "p$"
+    },
+    "info": {
+        "name": "Possibly The Best Discord Fun Bot",
+        "description": "Made during the BytesToBits Discord Bot Jam",
+        "version": "1.2.1"
+    },
+    "staff": {
+        "owners": [{ "name": "Rhydderchc", "id": "749936830098571335" }],
+        "admins": [{ "name": "Rhydderchc", "id": "749936830098571335" }]
+    },
+    "template": {
+        "embeds": {
+            "help": "ffffff",
+            "global": 4315874,
+            "error": 15844367
+        },
+
+        "emotes": {
+            "error": ":x:",
+            "success": ":white_check_mark:"
+        }
+    }
+}
